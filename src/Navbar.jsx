@@ -9,15 +9,15 @@ const Navbar = () => {
       <a href="home" className="nav-link">
         Home
       </a>
+      <a href="#contact" className="nav-link">
+        Contact
+      </a>
       <button
         onClick={() => (window.location.href = "/portfolio")}
         classNam="btn btn-primary"
       >
         Portfolio
       </button>
-      <a href="#contact" className="nav-link">
-        Contact
-      </a>
     </div>
   );
 };
