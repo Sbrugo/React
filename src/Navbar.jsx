@@ -1,6 +1,6 @@
 import "./Navbar.css";
 
-const navbar = () => {
+const Navbar = () => {
   return (
     <div className="navbar">
       <a href="#about" className="nav-link">

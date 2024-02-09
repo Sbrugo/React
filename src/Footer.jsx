@@ -1,6 +1,6 @@
 import "./Footer.css";
 
-const footer = () => {
+const Footer = () => {
   return (
     <div className="footer">
       <p>Created by: Sofia</p>

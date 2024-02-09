@@ -4,10 +4,10 @@ import Footer from "./Footer.jsx";
 
 function App() {
   return (
-    <div>
+    <body>
       <Navbar />
       <Footer />
-    </div>
+    </body>
   );
 }
 
