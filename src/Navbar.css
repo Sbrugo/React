@@ -1,10 +1,12 @@
 .navbar {
-  background-color: #333; /* Color de fondo */
-  color: #fff; /* Color del texto */
+  background-color: #f0f7f4; /* Color de fondo */
+  color: #071108; /* Color del texto */
   padding: 10px;
+  display: flex;
+  justify-content: center;
 }
 .navbar a {
-  color: #fff; /* Color del texto de los enlaces */
+  color: #071108; /* Color del texto de los enlaces */
   text-decoration: none; /* Sin subrayado */
   margin-right: 15px; /* Espacio entre enlaces */
 }

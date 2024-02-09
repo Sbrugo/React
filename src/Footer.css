@@ -1,16 +1,16 @@
-footer {
-  background-color: #333; /* Color de fondo del footer */
-  color: #fff; /* Color del texto del footer */
+.footer {
+  background-color: #f0f7f4; /* Color de fondo del footer */
+  color: #071108; /* Color del texto del footer */
   padding: 20px;
   text-align: center; /* Alineación del texto al centro */
   position: fixed; /* Fijar el footer en la parte inferior */
   width: 100%; /* Ancho del footer */
   bottom: 0; /* Situar el footer en la parte inferior */
 }
-footer a {
-  color: #fff; /* Color del texto de los enlaces del footer */
+.footer a {
+  color: #071108; /* Color del texto de los enlaces del footer */
   text-decoration: none; /* Sin subrayado */
 }
-footer a:hover {
+.footer a:hover {
   text-decoration: underline; /* Subrayado al pasar el cursor */
 }

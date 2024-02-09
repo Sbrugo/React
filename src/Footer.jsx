@@ -4,7 +4,12 @@ const Footer = () => {
   return (
     <div className="footer">
       <p>Created by: Sofia</p>
-      <a href="https://github.com/Sbrugo"></a>
+      <button
+        onClick={() => (window.location.href = "/portfolio")}
+        classNam="btn btn-primary"
+      >
+        Github
+      </button>
     </div>
   );
 };
